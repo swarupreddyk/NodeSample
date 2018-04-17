@@ -1,0 +1,12 @@
+{
+    "memory": "1G",
+    "instances": "1",  
+
+    "services": [{
+        "identifier": "SivaService",
+        "name": "IntegDBaaS-apaasDaily-11G-20150824-015812",
+        "type": "DBAAS",
+        "username": "system",
+        "password": "Welcome1#"  
+    }]
+} 

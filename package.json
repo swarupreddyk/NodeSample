@@ -1,0 +1,12 @@
+{
+  "name": "NodeOracleApp",
+  "version": "0.0.1",
+  "description": "Node Oracele Driver Sample App",
+  "scripts": { 
+    "start": "node server.js"
+  },
+  "private": true,
+  "dependencies": {
+    "oracledb":"0.7.0"
+  }
+}
